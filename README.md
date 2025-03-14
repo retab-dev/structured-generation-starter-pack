@@ -76,3 +76,4 @@
 | Title | Presenter | Duration | Date |
 | --- | --- | --- | --- |
 | [Introduction to Structured Generation](http://youtube.com/watch?v=aNmfvN6S_n4) | Remi Louf | 15 min | 2024-08-14 |
+| [Making AI coding assistants better, even for your weird DSLs](https://www.youtube.com/watch?v=ulAOjl4OM5M) | George Fahmy | 22 min | 2025-03-03 |
