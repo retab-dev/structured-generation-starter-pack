@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+- [:hammer: Apps](#apps)
 - [:books: Datasets](#datasets)
 - [:gear: Frameworks](#frameworks)
 - [:bulb: Prompt Engineering](#prompt-engineering)
@@ -13,25 +14,33 @@
 - [:books: Papers](#papers)
 - [:movie_camera: Videos](#videos)
 
+
+## Apps
+
+| Name | Description | Author | 
+| --- | --- | --- |
+| [OpenAI Structured Outputs Samples](https://github.com/openai/openai-structured-outputs-samples) | OpenAI Structured Outputs Samples | OpenAI |
+| [UiForm Playground](https://uiform.com/playground) | Playground for document analysis with structured generation | UiForm |
+
 ## Datasets
 
-| Name | Description |
-| --- | --- |
-| [JSON Schema Bench](https://github.com/guidance-ai/jsonschemabench) | Benchmarking JSON schema-based datasets. |
-| [Kleister Charity](https://github.com/applicaai/kleister-charity/) | NLP dataset for document understanding. |
-| [Kleister NDA](https://github.com/applicaai/kleister-nda) | NLP dataset for non-disclosure agreements. |
-| [RealKIE](https://github.com/IndicoDataSolutions/RealKIE) | Key information extraction dataset. |
+| Name | Description | Author |
+| --- | --- | --- |
+| [JSON Schema Bench](https://github.com/guidance-ai/jsonschemabench) | Benchmarking JSON schema-based datasets. | Guidance AI |
+| [Kleister Charity](https://github.com/applicaai/kleister-charity/) | NLP dataset for document understanding. | Applica AI |
+| [Kleister NDA](https://github.com/applicaai/kleister-nda) | NLP dataset for non-disclosure agreements. | Applica AI |
+| [RealKIE](https://github.com/IndicoDataSolutions/RealKIE) | Key information extraction dataset. | Indico Data Solutions |
 
 ## Frameworks
 
-| Name | Description |
-| --- | --- |
-| [Outlines](https://github.com/dottxt-ai/outlines) | Guide to structured text generation | 
-| [Guidance](https://github.com/guidance-ai/guidance) | Framework for structured text generation | 
-| [LLGuidance](https://github.com/guidance-ai/llguidance) | Guidance for structured AI outputs | 
-| [LM Format Enforcer](https://github.com/noamgat/lm-format-enforcer) | Enforces structured output formatting | 
-| [XGrammar](https://github.com/mlc-ai/xgrammar) | AI grammar enforcement for structured outputs | 
-| [Llama.cpp Grammars](https://github.com/ggerganov/llama.cpp/blob/master/grammars/README.md) | Grammar-based structured output for Llama |
+| Name | Description | Author |
+| --- | --- | --- |
+| [Outlines](https://github.com/dottxt-ai/outlines) | Framework for structured text generation | Dottxt | 
+| [Guidance](https://github.com/guidance-ai/guidance) | Framework for structured text generation | Guidance AI | 
+| [LLGuidance](https://github.com/guidance-ai/llguidance) | Guidance for structured AI outputs | Guidance AI | 
+| [LM Format Enforcer](https://github.com/noamgat/lm-format-enforcer) | Enforces structured output formatting | Noam Gat | 
+| [XGrammar](https://github.com/mlc-ai/xgrammar) | AI grammar enforcement for structured outputs | MLC | 
+| [Llama.cpp Grammars](https://github.com/ggerganov/llama.cpp/blob/master/grammars/README.md) | Grammar-based structured output for Llama | Gabor Gereb | 
 
 ## Prompt Engineering
 
