@@ -4,32 +4,16 @@
 
 ## Table of Contents
 
-- [:hammer: Apps](#apps)
-- [:books: Datasets](#datasets)
 - [:gear: Frameworks](#frameworks)
-- [:bulb: Prompt Engineering](#prompt-engineering)
-- [:brain: Models](#models)
 - [:memo: Blog Articles](#blog-articles)
-- [:office: Corporate Articles](#corporate-articles)
 - [:books: Papers](#papers)
 - [:movie_camera: Videos](#videos)
+- [:bulb: Prompt Engineering](#prompt-engineering)
+- [:brain: Models](#models)
+- [:books: Datasets](#datasets)
+- [:hammer: Apps](#apps)
 
 
-## Apps
-
-| Name | Description | Author | 
-| --- | --- | --- |
-| [OpenAI Structured Outputs Samples](https://github.com/openai/openai-structured-outputs-samples) | OpenAI Structured Outputs Samples | OpenAI |
-| [UiForm Playground](https://uiform.com/playground) | Playground for document analysis with structured generation | UiForm |
-
-## Datasets
-
-| Name | Description | Author |
-| --- | --- | --- |
-| [JSON Schema Bench](https://github.com/guidance-ai/jsonschemabench) | Benchmarking JSON schema-based datasets. | Guidance AI |
-| [Kleister Charity](https://github.com/applicaai/kleister-charity/) | NLP dataset for document understanding. | Applica AI |
-| [Kleister NDA](https://github.com/applicaai/kleister-nda) | NLP dataset for non-disclosure agreements. | Applica AI |
-| [RealKIE](https://github.com/IndicoDataSolutions/RealKIE) | Key information extraction dataset. | Indico Data Solutions |
 
 ## Frameworks
 
@@ -42,22 +26,6 @@
 | [XGrammar](https://github.com/mlc-ai/xgrammar) | AI grammar enforcement for structured outputs | MLC | 
 | [Llama.cpp Grammars](https://github.com/ggerganov/llama.cpp/blob/master/grammars/README.md) | Grammar-based structured output for Llama | Gabor Gereb | 
 
-## Prompt Engineering
-
-| Name | Description |
-| --- | --- |
-| [OpenAI Prompt Guide](https://platform.openai.com/docs/guides/prompt-generation) | Guide to designing effective prompts. |
-| [Firecrawl](https://github.com/mendableai/firecrawl) | AI-powered prompt engineering tool. |
-| [UiForm](https://github.com/UiForm/uiform) | Prompt engineering with reasoning fields using the JSON Schema |
-| [Pydantic AI](https://github.com/pydantic/pydantic-ai) | AI-assisted validation using Pydantic. |
-| [Unstructured.io](https://unstructured.io) | Framework for unstructured data parsing. |
-
-## Models
-
-| Name | Institution | Year |
-| --- | --- | --- |
-| [Gorilla](https://gorilla.cs.berkeley.edu) | UC Berkeley | 2023 |
-| [NuExtract](https://numind.ai/blog/nuextract-a-foundation-model-for-structured-extraction) | Numind | 2024 |
 
 ## Blog Articles
 | Title | Description | Author | Date |
@@ -86,3 +54,43 @@
 | --- | --- | --- | --- |
 | [Introduction to Structured Generation](http://youtube.com/watch?v=aNmfvN6S_n4) | Remi Louf | 15 min | 2024-08-14 |
 | [Making AI coding assistants better, even for your weird DSLs](https://www.youtube.com/watch?v=ulAOjl4OM5M) | George Fahmy | 22 min | 2025-03-03 |
+| [Structured Generation](https://www.youtube.com/watch?v=aNmfvN6S_n4) | Remi Louf | 15 min | 2024-08-14 |
+| [OpenAI Introduces Structured Outputs in the API (Tutorial)](https://www.youtube.com/watch?app=desktop&v=6e_oFG4JVg8) | Elvis Saravia | 15 min | 2024-08-06 |
+
+
+## Prompt Engineering
+
+| Name | Description |
+| --- | --- |
+| [OpenAI Prompt Guide](https://platform.openai.com/docs/guides/prompt-generation) | Guide to designing effective prompts. |
+| [Firecrawl](https://github.com/mendableai/firecrawl) | AI-powered prompt engineering tool. |
+| [UiForm](https://github.com/UiForm/uiform) | Prompt engineering with reasoning fields using the JSON Schema |
+| [Pydantic AI](https://github.com/pydantic/pydantic-ai) | AI-assisted validation using Pydantic. |
+| [Unstructured.io](https://unstructured.io) | Framework for unstructured data parsing. |
+
+
+## Models
+
+| Name | Institution | Year |
+| --- | --- | --- |
+| [Gorilla](https://gorilla.cs.berkeley.edu) | UC Berkeley | 2023 |
+| [NuExtract](https://numind.ai/blog/nuextract-a-foundation-model-for-structured-extraction) | Numind | 2024 |
+
+
+## Datasets
+
+| Name | Description | Author |
+| --- | --- | --- |
+| [JSON Schema Bench](https://github.com/guidance-ai/jsonschemabench) | Benchmarking JSON schema-based datasets. | Guidance AI |
+| [Kleister Charity](https://github.com/applicaai/kleister-charity/) | NLP dataset for document understanding. | Applica AI |
+| [Kleister NDA](https://github.com/applicaai/kleister-nda) | NLP dataset for non-disclosure agreements. | Applica AI |
+| [RealKIE](https://github.com/IndicoDataSolutions/RealKIE) | Key information extraction dataset. | Indico Data Solutions |
+
+
+## Apps
+
+| Name | Description | Author | 
+| --- | --- | --- |
+| [OpenAI Structured Outputs Samples](https://github.com/openai/openai-structured-outputs-samples) | OpenAI Structured Outputs Samples | OpenAI |
+| [UiForm Playground](https://uiform.com/playground) | Playground for document analysis with structured generation | UiForm |
+
