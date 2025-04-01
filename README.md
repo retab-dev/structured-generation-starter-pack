@@ -38,7 +38,6 @@
 | [Structured Outputs in OpenAI API](https://openai.com/index/introducing-structured-outputs-in-the-api/) | Guide to using structured outputs in OpenAI's API | OpenAI | 2024-08-06 |
 | [Gemini API for Structured Outputs](https://ai.google.dev/gemini-api/docs/structured-output) | Documentation for structured outputs in Gemini API | Google | 2024-12-11 |
 | [Structured Generation for LLM-as-a-Judge Evaluations](https://www.comet.com/site/blog/structured-generation-llm-as-a-judge/) | Structured generation for LLM-as-a-Judge evaluations | Caleb Kaiser | 2024-11-27 |
-| [Structured outputs in Ollama](https://ollama.com/blog/structured-outputs) | Ollama | 15 min | 2024-12-06 |
 
 ## Papers
 | Title | Authors | Year |
@@ -88,10 +87,11 @@
 | [RealKIE](https://github.com/IndicoDataSolutions/RealKIE) | Key information extraction dataset. | Indico Data Solutions |
 
 
-## Apps
+## Apps & Tools
 
 | Name | Description | Author | 
 | --- | --- | --- |
 | [OpenAI Structured Outputs Samples](https://github.com/openai/openai-structured-outputs-samples) | OpenAI Structured Outputs Samples | OpenAI |
+| [Structured outputs](https://ollama.com/blog/structured-outputs) | Structured outputs in Ollama | Ollama |
 | [UiForm Playground](https://uiform.com/playground) | Playground for document analysis with structured generation | UiForm |
 
