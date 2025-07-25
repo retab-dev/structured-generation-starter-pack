@@ -63,8 +63,8 @@
 | Name | Description |
 | --- | --- |
 | [OpenAI Prompt Guide](https://platform.openai.com/docs/guides/prompt-generation) | Guide to designing effective prompts. |
-| [Firecrawl](https://github.com/mendableai/firecrawl) | AI-powered prompt engineering tool. |
-| [UiForm](https://github.com/UiForm/uiform) | Prompt engineering with reasoning fields using the JSON Schema |
+| [Firecrawl](https://github.com/mendableai/firecrawl) | AI-powered web crawler. |
+| [retab](https://github.com/retab-dev/retab) | Prompt engineering with reasoning fields using the JSON Schema |
 | [Pydantic AI](https://github.com/pydantic/pydantic-ai) | AI-assisted validation using Pydantic. |
 | [Unstructured.io](https://unstructured.io) | Framework for unstructured data parsing. |
 
@@ -93,5 +93,5 @@
 | --- | --- | --- |
 | [OpenAI Structured Outputs Samples](https://github.com/openai/openai-structured-outputs-samples) | OpenAI Structured Outputs Samples | OpenAI |
 | [Structured outputs](https://ollama.com/blog/structured-outputs) | Structured outputs in Ollama | Ollama |
-| [UiForm Playground](https://uiform.com/playground) | Playground for document analysis with structured generation | UiForm |
+| [retab Playground](https://retab.com/playground) | Playground for document analysis with structured generation | Retab |
 
